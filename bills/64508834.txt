@@ -1,0 +1,17 @@
+	Welcome to Retail
+
+ Bill Number :64508834
+ Customer Name :sandeep 
+ Phone Number :1234567890
+ =====================================
+ products		QTY	Price
+ =====================================
+ Bath Soap		7	280
+ sugar		7	343
+ Milk 		1	50
+ ------------------------------------
+ Cosmetic tax : 			Rs. 14.0
+ Grocery tax :			Rs. 34.3
+ Drinks tax :			Rs. 4.0
+ Total Bill :			Rs. 725.3
+ ------------------------------------
